@@ -1,4 +1,6 @@
-# Sitio en construccion :ghost:
+# Sitio en construccion
+
+:ghost:
 
 ---
 
