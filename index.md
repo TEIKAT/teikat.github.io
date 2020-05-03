@@ -5,17 +5,8 @@
 
 ---
 
-|  |  ||
-:---:|:---|---:
-| asdf | safd | lk
-| asdfhjgkj| asfdsasfdsa |
-| asdf | safd|asdjfasdjkf
-
----
-
-- [ ]  uno
-- [x]  dos
-- [ ] membrillo
+> A nice blockquote
+{: title="Blockquote title"}
 
 ---
 
