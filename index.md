@@ -1,12 +1,8 @@
-# Sitio en construccion
-
-:ghost:
+# Sitio en construccion |m|,
 
 ---
 
 `by patod01`
 
 ---
-
-
 
