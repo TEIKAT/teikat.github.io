@@ -18,9 +18,11 @@ hola
 This is an HTML
 example.
 
-*[HTML]: Hyper Text Markup Language
+
 
 [^n]: And here is the definition.
+
+*[HTML]: Hyper Text Markup Language
 
 ---
 
