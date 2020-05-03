@@ -6,7 +6,7 @@
 ---
 
 > A nice blockquote
-{: color="red"}
+{: style:"color: red;"}
 
 ---
 
