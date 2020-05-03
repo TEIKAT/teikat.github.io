@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: right;"> `by patod01` </div>
+`by patod01`
 
 ---
 
