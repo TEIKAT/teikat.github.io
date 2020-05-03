@@ -8,8 +8,8 @@
 
 ---
 
-- [ ] uno
-- [x] dos
+- [ ]  uno
+- [x]  dos
 - [ ] membrillo
 
 ---
