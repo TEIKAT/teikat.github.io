@@ -1,3 +1,4 @@
 theme:
 plugins:
   - jemoji
+markdown: CommonMark
