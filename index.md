@@ -6,7 +6,7 @@
 ---
 
 > A nice blockquote
-{: title="Blockquote title"}
+{: color="red"}
 
 ---
 
