@@ -5,6 +5,6 @@
 
 ---
 
-<span style="text-align: right;"> `by patod01` :ghost: :ghost: </span>
+<span style="tcolor: blue;"> `by patod01` :ghost: :ghost: </span>
 
 ---
