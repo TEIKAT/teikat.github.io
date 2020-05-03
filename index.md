@@ -16,11 +16,9 @@
 
 ---
 
-This is a text\
-with a\
-footnote[^1].
+This is a text\with a\footnote[^n].
 
-[^1]: And here is the definition.
+[^n]: And here is the definition.
 
 ---
 
