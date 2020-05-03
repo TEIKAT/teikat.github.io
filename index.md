@@ -16,7 +16,7 @@
 
 ---
 
-This is a text  
+This is a text
 with a
 footnote[^1].
 
