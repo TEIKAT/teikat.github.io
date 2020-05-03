@@ -5,7 +5,7 @@
 
 ---
 
-> A nice blockquote
+> A nice blockquote lol
 {: style:"color: red;"}
 
 ---
