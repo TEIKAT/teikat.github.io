@@ -16,8 +16,8 @@
 
 ---
 
-This is a text
-with a
+This is a text\
+with a\
 footnote[^1].
 
 [^1]: And here is the definition.
