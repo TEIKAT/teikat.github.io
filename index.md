@@ -15,7 +15,7 @@ This is a text\with a\footnote[^n].
 hola
 : te saluda pelotu3
 
-This is an HTML
+This is an *HTML*{: style="color: red;"} lol
 example.
 
 
