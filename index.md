@@ -2,15 +2,15 @@
 
 ---
 
-hola | chao
------|-----
-asdf | sdmfk
+|hola | chao
+|-----|-----
+|asdf | sdmfk
 
 ---
 
-- [] uno
+- [ ] uno
 - [x] dos
-- [] membrillo
+- [ ] membrillo
 
 ---
 
