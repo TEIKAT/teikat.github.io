@@ -2,9 +2,9 @@
 
 ---
 
-|hola | chao
-|-----|-----
-|asdf | sdmfk
+|hola | chao |
+|-----|-----:|
+|asdf | sdmfk |
 
 ---
 
