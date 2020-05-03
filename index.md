@@ -24,6 +24,6 @@ example.
 
 ---
 
-`by patod01` :ghost: :ghost:
+<span style="text-align: right;"> `by patod01` :ghost: :ghost: </span>
 
 ---
