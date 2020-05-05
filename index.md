@@ -17,16 +17,17 @@
 
 To-DO list:
 
-- [] actualizar sitio (mejorar visual)
-- [] organizar mejor el contenido
-- [] subir tutoriales:
-    - - [] como usar telegram
-    - - [] como usar discord
-- [] crear sitio de actualizaciones
+- [ ] actualizar sitio (mejorar visual)
+- [ ] organizar mejor el contenido
+- [ ] subir tutoriales:
+    - - [ ] como usar telegram
+    - - [ ] como usar discord
+- [ ] crear sitio de actualizaciones
 
 ---
 
 teikat.github.io
+
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
 ---
