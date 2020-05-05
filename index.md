@@ -17,12 +17,12 @@
 
 To-DO list:
 
-- [ ] actualizar sitio (mejorar visual)
-- [ ] organizar mejor el contenido
-- [ ] subir tutoriales:
+- - [ ] actualizar sitio (mejorar visual)
+- - [ ] organizar mejor el contenido
+- - [ ] subir tutoriales:
     - - [ ] como usar telegram
     - - [ ] como usar discord
-- [ ] crear sitio de actualizaciones
+- - [ ] crear sitio de actualizaciones
 
 ---
 
