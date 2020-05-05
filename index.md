@@ -18,11 +18,12 @@
 To-DO list:
 
 - [ ] actualizar sitio (mejorar visual)
-- - [ ] organizar mejor el contenido
+- [ ] organizar mejor el contenido
 - [ ] subir tutoriales:
-    - - [ ] como usar telegram
-    - - [ ] como usar discord
-- - [ ] crear sitio de actualizaciones
+    - [ ] como usar telegram
+    - [ ] como usar discord
+- [ ] crear sitio de actualizaciones
+- [ ] habilitar drive para la tutoria
 
 ---
 
@@ -32,7 +33,7 @@ teikat.github.io
 
 ---
 
-[1]:
-[2]:
-[3]:
-[4]:
+[1]:"http://es.onlinemschool.com/math/assistance/vector/multiply1/"
+[2]: "https://www.geogebra.org/m/B6Uz5yWf"
+[3]:"https://awwapp.com/"
+[4]:"https://t.me/tutoria_ea"
