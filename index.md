@@ -17,9 +17,9 @@
 
 To-DO list:
 
-- - [ ] actualizar sitio (mejorar visual)
+- [ ] actualizar sitio (mejorar visual)
 - - [ ] organizar mejor el contenido
-- - [ ] subir tutoriales:
+- [ ] subir tutoriales:
     - - [ ] como usar telegram
     - - [ ] como usar discord
 - - [ ] crear sitio de actualizaciones
