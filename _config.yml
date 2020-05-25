@@ -3,9 +3,9 @@ plugins:
   - jemoji
 markdown: kramdown
 defaults:
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            page.title: "fuck off"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      page.title: "fuck off"
