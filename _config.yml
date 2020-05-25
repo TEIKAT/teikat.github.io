@@ -2,7 +2,7 @@ theme:
 plugins:
   - jemoji
 markdown: kramdown
-permalink: /:path
+permalink:
 defaults:
   -
     scope:
