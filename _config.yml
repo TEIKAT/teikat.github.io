@@ -2,8 +2,3 @@ theme:
 plugins:
   - jemoji
 markdown: kramdown
-collections:
-  otro:
-    output: true
-    permalink: /ection/:name
-layout: page

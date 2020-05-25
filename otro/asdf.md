@@ -12,4 +12,4 @@ teikat.github.io - 0.1.0
 
 ---
 
-[sdf]: _otro/sdf.md
+[sdf]: otro/sdf.md
