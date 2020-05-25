@@ -1,6 +1,6 @@
 ---
 
-permalink: /lel/
+permalink: /lel.d
 
 ---
 
