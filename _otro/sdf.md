@@ -4,7 +4,7 @@ title: "lulu"
 
 ---
 
-[sdf][]
+[asdf][]
 
 teikat.github.io - 0.1.0
 
@@ -12,4 +12,5 @@ teikat.github.io - 0.1.0
 
 ---
 
-[sdf]: sdf.md
+[asdf]: asdf.md
+[sdf.md]
