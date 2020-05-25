@@ -6,6 +6,5 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
     values:
       title: "fuck off"
