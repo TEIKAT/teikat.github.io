@@ -2,3 +2,10 @@ theme:
 plugins:
   - jemoji
 markdown: kramdown
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            title: "fuck off"
