@@ -3,7 +3,7 @@ plugins:
   - jemoji
 markdown: kramdown
 collections:
-    otro:
-        output: true
-        permalink: /ection/
+  otro:
+    output: true
+    permalink: /ection/
 layout: page
