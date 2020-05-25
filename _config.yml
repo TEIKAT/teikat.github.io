@@ -2,11 +2,8 @@ theme:
 plugins:
   - jemoji
 markdown: kramdown
-permalink:
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: page
-      title: "fuck it"
+collections:
+    otro:
+        output: true
+permalink: /:collection/
+layout: page
