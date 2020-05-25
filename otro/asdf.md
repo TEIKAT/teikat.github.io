@@ -1,6 +1,7 @@
 ---
 
-permalink: /lel.html
+permalink: lel
+page.title: "asdf"
 
 ---
 
