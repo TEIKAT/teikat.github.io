@@ -2,9 +2,9 @@ theme:
 plugins:
   - jemoji
 markdown: kramdown
+permalink: /:title
 defaults:
   -
     scope:
       path: ""
     values:
-      title: "fuck off"
