@@ -1,8 +1,5 @@
 ---
 
-permalink: lel
-page.title: "asdf"
-
 ---
 
 ---
