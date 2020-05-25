@@ -5,5 +5,5 @@ markdown: kramdown
 collections:
   otro:
     output: true
-    permalink: /ection/
+    permalink: /ection/:name
 layout: page
