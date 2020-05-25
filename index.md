@@ -2,6 +2,8 @@
 
 ---
 
+<link rel="icon" href="etc/head.png">
+
 # Site under development |[m](otro/asdf.md)|,
 
 ---
