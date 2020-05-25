@@ -8,5 +8,5 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "page"
+      layout: page
       title: "fuck it"
