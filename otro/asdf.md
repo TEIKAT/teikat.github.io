@@ -1,5 +1,5 @@
 ---
-permalink: /jonas/
+permalink: /pico/
 ---
 
 ---

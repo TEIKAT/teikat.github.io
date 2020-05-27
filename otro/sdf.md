@@ -1,5 +1,5 @@
 ---
-permalink: /nepe/
+permalink: /pico/
 ---
 
 <title>fuck it></title>
