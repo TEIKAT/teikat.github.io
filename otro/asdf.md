@@ -1,5 +1,5 @@
 ---
-title: "lulu"
+permalink: /jonas/
 ---
 
 ---
