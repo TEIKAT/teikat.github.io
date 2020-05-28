@@ -2,19 +2,20 @@
 
 ---
 
-<link rel="icon" href="etc/icon1.png">
+<link rel="icon" href="../etc/icon1.png">
 
 dev 0.2.0+
 
 WIP list:
 
-- [ ] ~~actualizar sitio (mejorar visual)~~
-- [x] organizar mejor el contenido
-- [x] habilitar drive para la tutoria
+- [ ] ~~actualizar sitio (mejorar visual)~~.
+- [x] organizar mejor el contenido.
+- [x] habilitar drive para la tutoria.
 - [ ] subir tutoriales:
-    - [ ] ~~como usar telegram~~
-    - [ ] como usar discord
-- [ ] crear sitio de actualizaciones (noticias)
+    - [ ] ~~como usar telegram.~~
+    - [ ] como usar discord.
+- [ ] crear sitio de actualizaciones (noticias).
+- [ ] ~~crear sitio de ayuda.~~
 
 ---
 
