@@ -8,7 +8,7 @@ dev 0.2.0
 
 WIP list:
 
-- [ ] actualizar sitio (mejorar visual)
+- [ ] ~~actualizar sitio (mejorar visual)~~
 - [x] organizar mejor el contenido
 - [x] habilitar drive para la tutoria
 - [ ] subir tutoriales:
@@ -18,7 +18,7 @@ WIP list:
 
 ---
 
-[teikat.github.io][teikat] -
+[teikat.github.io][teikat] - <span id="ver"></span>
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
