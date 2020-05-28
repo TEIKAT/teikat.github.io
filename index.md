@@ -2,40 +2,29 @@
 
 ---
 
-<link rel="icon" href="etc/head.png">
+<link rel="icon" href="etc/icon.png">
 
-# Site under development |[m](otro/asdf.md)|,
-
----
-
-## Links utiles:
-
-- [Calculadora de vectores][1]
-- [Grafico 3D con producto cruz][2]
-- [Aplicacion de pizarra online][3]
-- [**Link Grupo de Telegram**][4]
+# Site under development |m|,
 
 ---
 
-To-DO list:
-
-- [ ] actualizar sitio (mejorar visual)
-- [ ] organizar mejor el contenido
-- [ ] habilitar drive para la tutoria
-- [ ] subir tutoriales:
-    - [ ] como usar telegram
-    - [ ] como usar discord
-- [ ] crear sitio de actualizaciones
+- [noticias][] (blog) [*last day here*]
+- [clases realizadas][clases]
+- [links utiles][links]
+- [ayuda][]
+- [notas de desarrollo][dev]
 
 ---
 
-teikat.github.io - 0.1.0
+[teikat.github.io][teikat] - 0.2.0
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
----
+[noticias]: notice.md
+[clases]: clases.md
+[links]: links.md
+[ayuda]: help.md
+[dev]: dev.md
+[teikat]: https://teikat.github.io
 
-[1]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
-[2]: https://www.geogebra.org/m/B6Uz5yWf
-[3]: https://awwapp.com/
-[4]: https://t.me/tutoria_ea
+---
