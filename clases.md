@@ -12,7 +12,10 @@ Descripción del contenido del drive:
 - Problemas: carpetas con el contenido de ejercicios evaluados.
 
 <iframe height="10rem" width="666px" src="https://drive.google.com/embeddedfolderview?authuser=0&id=1MN-OHkmDM6QH3uonZZuRHwocYHhUlSmf#list">
-	<a href="https://drive.google.com/embeddedfolderview?authuser=0&id=1MN-OHkmDM6QH3uonZZuRHwocYHhUlSmf#list">link a carpetas</a>
+	<a href="https://drive.google.com/embeddedfolderview?authuser=0&id=1MN-OHkmDM6QH3uonZZuRHwocYHhUlSmf#list">
+		link a carpetas,<br>
+		necesitas un nuevo navegador si ves esto xd
+	</a>
 </iframe>
 
 ---
