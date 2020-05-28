@@ -7,14 +7,16 @@
 ## Links utiles:
 
 - [RISA 2D][drive].
-- Teoria
-	- [**Vectores**][vec].
-	- [Producto punto][xdot].
-	- [Producto cruz][xcross].
-- [Calculadora de vectores][vecal].
-- [Grafico 3D con producto cruz][3dg].
-- [Aplicacion de pizarra online][aww].
+- Teoría:
+    - [**Vectores**][vec].
+    - [Producto punto][xdot].
+    - [Producto cruz][xcross].
+- Utilidades para vectores:
+    - [Calculadora, producto punto][calxp].
+    - [Calculadora, producto cruz][calxx].
+    - [Grafico 3D con producto cruz][3dg].
 - [Ejemplo sobre momento respecto de un eje][ej].
+- [Aplicacion de pizarra online][aww].
 
 ---
 
@@ -27,13 +29,11 @@
 ---
 
 [drive]: https://drive.google.com/file/d/12XjRZyeIfgdpwkwTM1DipfNFrjWIATP5/view
-
-https://drive.google.com/embeddedfolderview?authuser=0&id=1GYQ3BoGq5wsnCaD4ZzL1pEjT8Ckm3MfK#list
-
 [vec]: https://es.wikipedia.org/wiki/Vector
 [xdot]: https://es.wikipedia.org/wiki/Producto_escalar
 [xcross]: https://es.wikipedia.org/wiki/Producto_vectorial
-[vecal]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
+[calxp]: http://es.onlinemschool.com/math/assistance/vector/multiply/
+[calxx]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
 [3dg]: https://www.geogebra.org/m/B6Uz5yWf
 [aww]: https://awwapp.com/
 [ej]: https://www.uco.es/~me1leraj/momentos/lec01_1_5.htm
