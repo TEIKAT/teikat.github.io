@@ -8,10 +8,10 @@
 
 ---
 
-- [noticias][] (blog) [*last day here*]
+- (no disponible) [noticias][] (blog) [*last day here*] 
 - [clases realizadas][clases]
-- [links utiles][links]
-- [ayuda][]
+- (no disponible) [links utiles][links]
+- (no disponible) [ayuda][]
 - [notas de desarrollo][dev]
 
 ---
