@@ -4,7 +4,7 @@ permalink: dev/
 
 <link rel="icon" href="etc/icon1.png">
 
-dev 0.2.0
+dev 0.2.0+
 
 WIP list:
 
