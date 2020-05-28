@@ -1,10 +1,12 @@
 ---
-
+permalink: dev/
 ---
 
 <link rel="icon" href="etc/icon1.png">
 
-To-DO list:
+dev 0.2.0
+
+WIP list:
 
 - [ ] actualizar sitio (mejorar visual)
 - [x] organizar mejor el contenido
@@ -12,7 +14,7 @@ To-DO list:
 - [ ] subir tutoriales:
     - [ ] ~~como usar telegram~~
     - [ ] como usar discord
-- [x] crear sitio de actualizaciones
+- [x] crear sitio de actualizaciones (noticias)
 
 ---
 
