@@ -14,7 +14,7 @@ WIP list:
 - [ ] subir tutoriales:
     - [ ] ~~como usar telegram~~
     - [ ] como usar discord
-- [x] crear sitio de actualizaciones (noticias)
+- [ ] crear sitio de actualizaciones (noticias)
 
 ---
 
