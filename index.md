@@ -24,7 +24,7 @@
 [clases]: clases.md
 [links]: links.md
 [ayuda]: help.md
-[dev]: dev.md
+[dev]: dev
 [teikat]: https://teikat.github.io
 
 ---
