@@ -7,7 +7,8 @@
 ## Links utiles:
 
 - [RISA 2D][drive].
-- [Teoria de vectores][vec].
+- Teoria
+- [**Vectores**][vec].
 - [Producto punto][xdot].
 - [Producto cruz][xcross].
 - [Calculadora de vectores][vecal].
@@ -25,7 +26,10 @@
 
 ---
 
-[drive]: https://drive.google.com/embeddedfolderview?authuser=0&id=1GYQ3BoGq5wsnCaD4ZzL1pEjT8Ckm3MfK#list
+[drive]: https://drive.google.com/file/d/12XjRZyeIfgdpwkwTM1DipfNFrjWIATP5/view
+
+https://drive.google.com/embeddedfolderview?authuser=0&id=1GYQ3BoGq5wsnCaD4ZzL1pEjT8Ckm3MfK#list
+
 [vec]: https://es.wikipedia.org/wiki/Vector
 [xdot]: https://es.wikipedia.org/wiki/Producto_escalar
 [xcross]: https://es.wikipedia.org/wiki/Producto_vectorial
