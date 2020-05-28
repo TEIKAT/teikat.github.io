@@ -8,9 +8,9 @@
 
 - [RISA 2D][drive].
 - Teoria
-- [**Vectores**][vec].
-- [Producto punto][xdot].
-- [Producto cruz][xcross].
+	- [**Vectores**][vec].
+	- [Producto punto][xdot].
+	- [Producto cruz][xcross].
 - [Calculadora de vectores][vecal].
 - [Grafico 3D con producto cruz][3dg].
 - [Aplicacion de pizarra online][aww].
