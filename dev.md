@@ -1,5 +1,7 @@
 ---
+
 permalink: dev/
+
 ---
 
 <link rel="icon" href="etc/icon1.png">
