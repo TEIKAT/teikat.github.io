@@ -10,7 +10,7 @@
 
 - (no disponible) [noticias][] (blog) [*last day here*] 
 - [clases realizadas][clases]
-- [links utiles][links]
+- [links útiles][links]
 - (no disponible) [ayuda][]
 - [notas de desarrollo][dev]
 
