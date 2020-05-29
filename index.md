@@ -23,7 +23,7 @@
 [noticias]: notice
 [clases]: clases.md
 [links]: links.md
-[ayuda]: help.md
+[ayuda]: help
 [dev]: dev
 [teikat]: https://teikat.github.io
 

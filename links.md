@@ -8,7 +8,7 @@
 
 ---
 
-## Links utiles:
+## Links útiles:
 
 - [Server de Discord][discord].
 - [RISA 2D][drive].

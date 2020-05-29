@@ -15,10 +15,10 @@ WIP list:
 - [ ] ~~actualizar sitio (mejora visual)~~.
 - [x] organizar mejor el contenido.
 - [x] habilitar drive para la tutoria.
-- [ ] subir tutoriales:
+- [x] subir tutoriales:
     - [ ] ~~como usar telegram.~~
-    - [ ] como usar discord.
-- [ ] crear sitio de actualizaciones (noticias).
+    - [x] como usar discord.
+- [x] crear sitio de actualizaciones (noticias).
 - [x] crear sitio de ayuda.
 - [x] crear sitio de links utiles.
 
