@@ -8,7 +8,7 @@
 
 ---
 
-- (no disponible) [noticias][] (blog) [*last day here*] 
+- [noticias][] (blog) [*29.05*] 
 - [clases realizadas][clases]
 - [links útiles][links]
 - [ayuda][]
