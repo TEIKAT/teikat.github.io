@@ -8,7 +8,7 @@
 
 ---
 
-titulo - fecha - hora
+\[[*ver*][01]\] Primera versión funcional! - 29/05 - 5:01 am
 
 ---
 
@@ -19,3 +19,5 @@ titulo - fecha - hora
 [teikat]: https://teikat.github.io
 
 ---
+
+[01]: 01
