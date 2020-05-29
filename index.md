@@ -11,7 +11,7 @@
 - (no disponible) [noticias][] (blog) [*last day here*] 
 - [clases realizadas][clases]
 - [links útiles][links]
-- (no disponible) [ayuda][]
+- [ayuda][]
 - [notas de desarrollo][dev]
 
 ---

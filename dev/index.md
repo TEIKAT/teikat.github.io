@@ -19,7 +19,7 @@ WIP list:
     - [ ] ~~como usar telegram.~~
     - [ ] como usar discord.
 - [ ] crear sitio de actualizaciones (noticias).
-- [ ] ~~crear sitio de ayuda.~~
+- [x] crear sitio de ayuda.
 - [x] crear sitio de links utiles.
 
 ---
