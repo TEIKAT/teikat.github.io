@@ -16,7 +16,7 @@
 
 ---
 
-[teikat.github.io][teikat] - 0.2.0
+[teikat.github.io][teikat] - 0.3.0
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
