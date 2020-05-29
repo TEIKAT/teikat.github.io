@@ -10,7 +10,7 @@
 
 dev 0.2.0+
 
-WIP list:
+~~WIP list~~:
 
 - [ ] ~~actualizar sitio (mejora visual)~~.
 - [x] organizar mejor el contenido.
