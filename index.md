@@ -20,7 +20,7 @@
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
-[noticias]: notice.md
+[noticias]: notice
 [clases]: clases.md
 [links]: links.md
 [ayuda]: help.md
