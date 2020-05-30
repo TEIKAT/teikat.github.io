@@ -2,7 +2,15 @@
 
 ---
 
-<link rel="icon" href="/etc/icon1.png">
+<script type="text/javascript">
+    ver = "0.3.2";
+
+    function kill() {
+        sapo.innerHTML() = ver;
+    }
+</script>
+
+<link onload="kill()" rel="icon" href="/etc/icon1.png">
 
 [*volver*][teikat]
 
