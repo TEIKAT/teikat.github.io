@@ -3,6 +3,7 @@
 ---
 
 <script type="text/javascript">
+    sapo = document.getElementById("herobrine");
     ver = "0.3.2";
 
     function kill() {
