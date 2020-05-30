@@ -8,6 +8,16 @@
 
 ---
 
+dev 0.3.0+
+
+WIP list:
+
+- [ ] buzon de entrega de trabajos.
+- [ ] the more you know...
+- [ ] delete herobrain.
+
+---
+
 dev 0.2.0+
 
 ~~WIP list~~:
@@ -24,7 +34,7 @@ dev 0.2.0+
 
 ---
 
-[teikat.github.io][teikat] - <span id="ver"></span>
+[teikat.github.io][teikat] - <span id="herobrine"></span>
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 

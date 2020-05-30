@@ -2,11 +2,13 @@
 
 ---
 
-<link rel="icon" href="etc/icon.png">
+<link rel="icon" href="../etc/icon.png">
 
 [*volver*][teikat]
 
 ---
+
+## Ayuda
 
 - [Tutorial de Discord][discord].
 - ~~encuestas y formularios.~~

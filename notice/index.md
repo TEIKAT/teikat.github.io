@@ -2,13 +2,15 @@
 
 ---
 
-<link rel="icon" href="etc/icon.png">
+<link rel="icon" href="../etc/icon.png">
 
 [*volver*][teikat]
 
 ---
 
-\[[*ver*][01]\] Primera versión funcional! - 29/05 - 5:01 am
+## Noticias
+
+- \[[*ver*][01]\] Primera versión funcional! - 29/05 - 5:01 am
 
 ---
 
