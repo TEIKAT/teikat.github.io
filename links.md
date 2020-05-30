@@ -17,7 +17,7 @@
     - [Producto punto][xdot].
     - [Producto cruz][xcross].
     - [Momento respecto de un eje][ej].
-    - [Criterio de signos][criterio].
+    - [Criterio de signos][criterio] (*video*).
 - Utilidades para vectores:
     - [Calculadora, producto punto][calxp].
     - [Calculadora, producto cruz][calxx].
