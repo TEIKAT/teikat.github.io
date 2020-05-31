@@ -14,4 +14,4 @@ function aww() {
 }
 
 sapo.addEventListener("load", kill());
-lov.addEventListener("click", aww());
+lov.addEventListener("onclick", aww());
