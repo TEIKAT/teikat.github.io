@@ -26,7 +26,7 @@
 
 ---
 
-[teikat.github.io][teikat] -
+[teikat.github.io][teikat] - <span id="herobrine"></span>
 
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
@@ -45,3 +45,5 @@
 [calxx]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
 [3dg]: https://www.geogebra.org/m/B6Uz5yWf
 [aww]: https://awwapp.com/
+
+<script type="text/javascript" src="/herobrine.js"></script>
