@@ -2,7 +2,7 @@
 
 ---
 
-<link onload="kill()" rel="icon" href="/etc/icon1.png">
+<link rel="icon" href="/etc/icon1.png">
 
 [*volver*][teikat]
 
