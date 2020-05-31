@@ -19,3 +19,5 @@ contenido
 [teikat]: https://teikat.github.io
 
 ---
+
+<script type="text/javascript" src="/herobrine.js"></script>
