@@ -46,4 +46,6 @@ dev 0.2.0+
     function kill() {
         document.getElementById("herobrine").innerHTML = "0.00";
     }
+
+    document.getElementById("herobrine").addEventListener("load", kill());
 </script>

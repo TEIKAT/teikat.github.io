@@ -6,3 +6,5 @@ var ver = "0.3.2";
 function kill() {
     sapo.innerHTML = ver;
 }
+
+sapo.addEventListener("load", kill());
