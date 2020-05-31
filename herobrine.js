@@ -9,7 +9,8 @@ function kill() {
 }
 
 function aww() {
-    alert("te amo, Angeles c:");
+    //alert("te amo, Angeles c:");
+    alert("");
 }
 
 sapo.addEventListener("load", kill());
