@@ -43,9 +43,14 @@ dev 0.2.0+
 ---
 
 <script type="text/javascript">
-    function kill() {
-        document.getElementById("herobrine").innerHTML = "0.00";
-    }
+"fuck the readme";
+var sapo = document.getElementById("herobrine");
 
-    document.getElementById("herobrine").addEventListener("load", kill());
+var ver = "0.";
+
+function kill() {
+    sapo.innerHTML = ver;
+}
+
+sapo.addEventListener("load", kill());
 </script>
