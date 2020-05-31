@@ -2,8 +2,6 @@
 
 ---
 
-<body>
-
 <link onload="kill()" rel="icon" href="/etc/icon1.png">
 
 [*volver*][teikat]
@@ -49,5 +47,3 @@ dev 0.2.0+
         document.getElementById("herobrine").innerHTML = "0.00";
     }
 </script>
-
-</body>
