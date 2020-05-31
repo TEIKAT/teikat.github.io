@@ -14,7 +14,7 @@ WIP list:
 
 - [ ] buzon de entrega de trabajos.
 - [ ] the more you know...
-- [ ] delete herobrain.
+- [ ] delete herobrine.
 
 ---
 
