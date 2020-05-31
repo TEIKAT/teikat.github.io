@@ -8,7 +8,7 @@
 
 ---
 
-- [noticias][] (blog) [*última: 29.05*].
+- [noticias][] (blog) [*última: 29.05*]<span id="milov">.</span>
 - [clases realizadas][clases].
 - [links útiles][links].
 - [ayuda][].
