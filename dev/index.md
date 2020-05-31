@@ -42,15 +42,4 @@ dev 0.2.0+
 
 ---
 
-<script type="text/javascript">
-"fuck the readme";
-var sapo = document.getElementById("herobrine");
-
-var ver = "0.";
-
-function kill() {
-    sapo.innerHTML = ver;
-}
-
-sapo.addEventListener("load", kill());
-</script>
+<script type="text/javascript" src="/herobrine.js"></script>
