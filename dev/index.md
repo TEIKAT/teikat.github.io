@@ -2,15 +2,6 @@
 
 ---
 
-<script type="text/javascript">
-    sapo = document.getElementById("herobrine");
-    ver = "0.3.2";
-
-    function kill() {
-        sapo.innerHTML() = ver;
-    }
-</script>
-
 <link onload="kill()" rel="icon" href="/etc/icon1.png">
 
 [*volver*][teikat]
@@ -50,3 +41,12 @@ dev 0.2.0+
 [teikat]: https://teikat.github.io
 
 ---
+
+<script type="text/javascript">
+    sapo = document.getElementById("herobrine");
+    ver = "0.3.2";
+
+    function kill() {
+        sapo.innerHTML = ver;
+    }
+</script>
