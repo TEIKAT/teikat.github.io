@@ -8,7 +8,7 @@
 
 ---
 
-- [noticias][] (blog) [*última: 29.05*]<span id="milov" oncopy="aww()">.</span>
+- [noticias][] (blog) [*última: 29.05*]<span oncopy="aww()">.</span>
 - [clases realizadas][clases].
 - [links útiles][links].
 - [ayuda][].
