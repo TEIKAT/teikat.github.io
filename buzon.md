@@ -11,7 +11,7 @@
 ## Buzón de entrega:
 
 - *habrá una carpeta para cada tarea*
-- *dentro de cada una estará posteriormente los puntajes obtenidos*
+- *dentro de cada una estarán posteriormente los puntajes obtenidos*
 
 <iframe height="333px" width="666px" src="https://drive.google.com/embeddedfolderview?authuser=0&id=1OTCdcD-fTLfhfJ7xwiZAkBBzhU9fPU9M#list">
     <a href="https://drive.google.com/embeddedfolderview?authuser=0&id=1OTCdcD-fTLfhfJ7xwiZAkBBzhU9fPU9M#list">
