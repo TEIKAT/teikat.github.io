@@ -26,7 +26,7 @@
 ---
 
 [noticias]: notice
-[box]: https://drive.google.com/drive/folders/1OTCdcD-fTLfhfJ7xwiZAkBBzhU9fPU9M
+[box]: buzon.md
 [clases]: clases.md
 [links]: links.md
 [ayuda]: help
