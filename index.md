@@ -10,6 +10,7 @@
 
 - [noticias][] (blog) [*última: 29.05*]<span oncopy="aww()">.</span>
 - [clases realizadas][clases].
+- [Buzón][box].
 - [links útiles][links].
 - [ayuda][].
 - [notas de desarrollo][dev].
@@ -25,6 +26,7 @@
 ---
 
 [noticias]: notice
+[box]: https://drive.google.com/drive/folders/1OTCdcD-fTLfhfJ7xwiZAkBBzhU9fPU9M
 [clases]: clases.md
 [links]: links.md
 [ayuda]: help
