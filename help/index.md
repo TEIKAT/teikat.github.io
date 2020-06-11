@@ -11,6 +11,7 @@
 ## Ayuda
 
 - [Tutorial de Discord][discord].
+- [Como comprimir archivos][zip].
 - ~~encuestas y formularios.~~
 - ~~guia de la pagina.~~
 
@@ -25,5 +26,6 @@
 ---
 
 [discord]: 01
+[zip]: 02
 
 <script type="text/javascript" src="/herobrine.js"></script>
