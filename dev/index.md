@@ -14,7 +14,7 @@ WIP list:
 
 - [x] buzon de entrega de trabajos.
 - [ ] crear formularios.
-- [ ] the more you know...
+- [ ] segmento de notas.
 - [ ] delete herobrine.
 
 ---
