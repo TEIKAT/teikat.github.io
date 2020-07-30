@@ -10,6 +10,7 @@
 
 ## Noticias
 
+- \[[*ver*][04]\] Notas actualizadas! - 30/07 - 1:11 am
 - \[[*ver*][03]\] Y, finalmente... notas! - 26/06 - 1:39 am
 - \[[*ver*][02]\] Nuevo buzón y poco más! - 11/06 - 2:49 am
 - \[[*ver*][01]\] Primera versión funcional! - 29/05 - 5:01 am
