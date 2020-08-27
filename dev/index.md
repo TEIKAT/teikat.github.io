@@ -8,18 +8,33 @@
 
 ---
 
-dev 0.3.0+
+descripcion...
+
+---
+
+dev 0.4.0+ (*2020-08-27 04-21*)
 
 WIP list:
 
-- [x] buzon de entrega de trabajos.
 - [ ] crear formularios.
 - [ ] segmento de notas.
 - [ ] delete herobrine.
 
 ---
 
-dev 0.2.0+
+dev 0.3.0+ (*???*)
+
+WIP list:
+
+- [x] buzon de entrega de trabajos.
+- [ ] ~~crear formularios.~~
+- [ ] ~~segmento de notas.~~
+- [x] Sobre Mi.
+- [ ] ~~delete herobrine.~~
+
+---
+
+dev 0.2.0+ (*‎2020-05-27 ‏‎23-36*)
 
 ~~WIP list~~:
 

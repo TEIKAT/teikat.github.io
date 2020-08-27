@@ -19,7 +19,7 @@
 
 [teikat.github.io][teikat] - <span id="herobrine"></span>
 
-:ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
+:ghost: `by` <span style="color: blue; font-family: monospace;">[patod01][me]</span> :ghost:
 
 [teikat]: https://teikat.github.io
 
@@ -31,5 +31,6 @@
 [links]: links.md
 [ayuda]: help
 [dev]: dev
+[me]: myself
 
 <script type="text/javascript" src="/herobrine.js"></script>
