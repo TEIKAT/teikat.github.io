@@ -21,7 +21,7 @@
 
 :ghost: `by`
 <span>
-<a href="myself" style="color: midnightblue; font-family: monospace; text-decoration: none; font-weight: bold;">
+<a href="myself" style="color: midnightblue; font-family: monospace; text-decoration: none; font-weight: bolder;">
 patod01</a></span> :ghost:
 
 [teikat]: https://teikat.github.io
