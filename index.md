@@ -20,9 +20,9 @@
 [teikat.github.io][teikat] - <span id="herobrine"></span>
 
 :ghost: `by`
-<span style="color: blue; font-family: monospace; text-decoration: none;">
-<a href="myself">patod01</a>
-</span> :ghost:
+<span>
+<a href="myself" style="color: blue; font-family: monospace; text-decoration: none;">
+patod01</a></span> :ghost:
 
 [teikat]: https://teikat.github.io
 
