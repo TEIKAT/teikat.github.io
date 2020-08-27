@@ -21,7 +21,8 @@
 
 :ghost: `by`
 <span style="color: blue; font-family: monospace; text-decoration: none;">
-[patod01][me]</span> :ghost:
+<a href="myself">patod01</a>
+</span> :ghost:
 
 [teikat]: https://teikat.github.io
 
