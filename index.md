@@ -21,7 +21,7 @@
 
 :ghost: `by`
 <span>
-<a href="myself" style="color: blue; font-family: monospace; text-decoration: none;">
+<a href="myself" style="color: purple; font-family: monospace; text-decoration: none;">
 patod01</a></span> :ghost:
 
 [teikat]: https://teikat.github.io
@@ -34,6 +34,5 @@ patod01</a></span> :ghost:
 [links]: links.md
 [ayuda]: help
 [dev]: dev
-[me]: myself
 
 <script type="text/javascript" src="/herobrine.js"></script>
