@@ -8,7 +8,10 @@
 
 ---
 
-descripcion...
+En cada version se nombran los cambios mas relevantes <br>
+planeados para la pagina. Los cambios tachados <br>
+fueron propuestos pero no se llevaron a cabo durante <br>
+la version.
 
 ---
 
@@ -22,9 +25,9 @@ WIP list:
 
 ---
 
-dev 0.3.0+ (*???*)
+dev 0.3.0+ (*‎2020-06-11 ‏02-39*)
 
-WIP list:
+~~WIP list~~:
 
 - [x] buzon de entrega de trabajos.
 - [ ] ~~crear formularios.~~
@@ -47,6 +50,12 @@ dev 0.2.0+ (*‎2020-05-27 ‏‎23-36*)
 - [x] crear sitio de actualizaciones (noticias).
 - [x] crear sitio de ayuda.
 - [x] crear sitio de links utiles.
+
+---
+
+dev 0.1.0+ (*Sunday, ‎May ‎24, ‎2020, ‏‎6:36:04 PM*)
+
+*life begins*
 
 ---
 
