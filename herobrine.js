@@ -1,7 +1,7 @@
 "fuck the readme";
 var sapo = document.getElementById("herobrine");
 
-var ver = "0.4.1";
+var ver = "0.4.2";
 
 function kill() {
     sapo.innerHTML = ver;
