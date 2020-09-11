@@ -12,7 +12,7 @@
 
 - \[[*ver*][01]\] Bienvenidos! - 11/09 - 3:33 pm
 
-[][*old logs*]
+[*old logs*][]
 
 ---
 
