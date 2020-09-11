@@ -12,7 +12,7 @@
 
 - \[[*ver*][01]\] Bienvenidos! - 11/09 - 3:33 pm
 
-[*old logs*][]
+[][*old logs*]
 
 ---
 
@@ -25,6 +25,6 @@
 ---
 
 [01]: 01
-[old]: old
+[old logs]: old
 
 <script type="text/javascript" src="/herobrine.js"></script>
