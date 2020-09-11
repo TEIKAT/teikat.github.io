@@ -8,11 +8,9 @@
 
 ---
 
-## Noticias
+## Old Logs:
 
-- \[[*ver*][01]\] Bienvenidos! - 11/09 - 3:33 pm
-
-[][*old logs*]
+- \[[*ver*][01]\] Logs primer semestre 2020.
 
 ---
 
@@ -24,7 +22,6 @@
 
 ---
 
-[01]: 01
-[old]: old
+[01]: 2020-01
 
 <script type="text/javascript" src="/herobrine.js"></script>

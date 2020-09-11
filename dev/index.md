@@ -20,6 +20,7 @@ dev 0.4.0+ (*2020-08-27 04-21*)
 WIP list:
 
 - [ ] crear formularios.
+- [ ] actualizacion seccion *noticias*.
 - [ ] segmento de notas.
 - [ ] delete herobrine.
 
