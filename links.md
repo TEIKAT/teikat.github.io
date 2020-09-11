@@ -34,7 +34,7 @@
 
 ---
 
-[discord]: https://discord.gg/xqDBsBE
+[discord]: https://discord.gg/kVP5k9T
 [drive]: https://drive.google.com/file/d/12XjRZyeIfgdpwkwTM1DipfNFrjWIATP5/view
 [vec]: https://es.wikipedia.org/wiki/Vector
 [xdot]: https://es.wikipedia.org/wiki/Producto_escalar
