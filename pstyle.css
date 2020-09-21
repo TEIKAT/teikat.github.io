@@ -1,6 +1,6 @@
 
 @keyframes Boo {
-    69% {
+    75% {
         color: midnightblue;
     }
 }
@@ -10,7 +10,7 @@
     font-weight: bold;
     font-family: monospace;
     text-decoration: none;
-    animation: Boo 3s infinite;
+    animation: Boo 4s infinite;
 }
 
 h1 {
