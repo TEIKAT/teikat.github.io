@@ -3,6 +3,7 @@
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="pstyle.css">
 <link rel="icon" href="/etc/icon.png">
 
 # Site under development |m|,

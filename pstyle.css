@@ -1,0 +1,13 @@
+@keyframes Boo {
+    50% {
+        color: midnightblue;
+    }
+}
+
+#yo {
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    text-decoration: none;
+    animation: Boo 3s infinite;
+}
