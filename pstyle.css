@@ -1,3 +1,7 @@
+h1 {
+    text-shadow: 2px 2px 8px #FF0000;
+}
+
 @keyframes Boo {
     69% {
         color: midnightblue;
@@ -12,6 +16,3 @@
     animation: Boo 3s infinite;
 }
 
-h1 {
-    text-shadow: 2px 2px 8px #FF0000;
-}
