@@ -15,3 +15,8 @@
 h1 {
     text-shadow: 0 0 4px crimson, 0 0 8px darkblue;
 }
+
+.xxx {
+    text-decoration: none;
+    opacity: 50%;
+}
