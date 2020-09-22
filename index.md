@@ -15,7 +15,7 @@
 - [clases realizadas][clases].
 - [Buzón][box].
 - [links útiles][links].
-- [ayuda][].{: .fdsa}
+- [ayuda][].{:.fdsa}
 - [notas de desarrollo][dev].
 {: .asdf}
 
