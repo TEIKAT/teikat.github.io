@@ -19,7 +19,7 @@
 - [ayuda][].
 - [notas de desarrollo][dev]{:.xxx}.
 
-asdf _asdf_{:.fdsa} asdf
+asdf asdf asdf{:.fdsa}
 
 ---
 
