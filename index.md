@@ -7,19 +7,15 @@
 <link rel="icon" href="/etc/icon.png">
 
 # Site under development |m|,
-{: .ppe}
 
 ---
 
-{: .asdf}
 - [noticias][] (blog) [*última: 11.09*]<span oncopy="aww()">.</span>
 - [clases realizadas][clases].
 - [Buzón][box].
 - [links útiles][links].
 - [ayuda][].
 - [notas de desarrollo][dev]{:.xxx}.
-
-asdf asdf asdf{:.fdsa}
 
 ---
 
