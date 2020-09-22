@@ -6,7 +6,8 @@
 <link rel="stylesheet" type="text/css" href="pstyle.css">
 <link rel="icon" href="/etc/icon.png">
 
-# Site under development |m|,{: .ppe}
+# Site under development |m|,
+{: .ppe}
 
 ---
 
