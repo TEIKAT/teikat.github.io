@@ -11,13 +11,13 @@
 
 ---
 
+{: .asdf}
 - [noticias][] (blog) [*última: 11.09*]<span oncopy="aww()">.</span>
 - [clases realizadas][clases].
 - [Buzón][box].
 - [links útiles][links].
 - [ayuda][].{:.fdsa}
 - [notas de desarrollo][dev].
-{: .asdf}
 
 ---
 
