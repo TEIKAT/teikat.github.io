@@ -10,7 +10,7 @@
 
 ---
 
-- [noticiias][] (blog) [*última: 11.09*]<span oncopy="aww()">.</span>
+- [noticias][] (blog) [*última: 11.09*]<span oncopy="aww()">.</span>
 - [clases realizadas][clases].
 - [Buzón][box].
 - [links útiles][links].
