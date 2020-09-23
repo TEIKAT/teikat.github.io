@@ -1,3 +1,4 @@
+/**/
 "fuck the readme";
 var sapo = document.getElementById("herobrine");
 
