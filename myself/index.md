@@ -18,6 +18,7 @@ Estudiante de Ingeniería
 - Esta pagina -> teikat.github.io
 - Un canal de youtube...
 - *pyPTF* (*PaTrickFormatting*) -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patod01/pyPTF/master?filepath=pyPTF.ipynb)
+    - Repository: https://github.com/patod01/PDot
 
 ---
 
