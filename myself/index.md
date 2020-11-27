@@ -18,7 +18,7 @@ Estudiante de Ingeniería
 - Esta pagina -> teikat.github.io
 - Un canal de youtube...
 - *PDot* (*P's Document organizer tool*) -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patod01/PDot/master?filepath=PDot.ipynb)
-    - Repository: _[](https://github.com/patod01/PDot)_
+    - Repository: _[https://github.com/patod01/PDot](https://github.com/patod01/PDot)_
 
 ---
 
