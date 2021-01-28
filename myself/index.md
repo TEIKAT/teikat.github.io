@@ -21,8 +21,6 @@ Estudiante de Ingeniería
     - Repository: _[https://github.com/patod01/PDot](https://github.com/patod01/PDot)_
 - __[Creepy stuff][creepy]__ (_do not click_).
 
-:$i30:$bitmap
-
 ---
 
 [teikat.github.io][teikat] - <span id="herobrine"></span>
@@ -30,7 +28,7 @@ Estudiante de Ingeniería
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
 [teikat]: https://teikat.github.io
-[creepy]: file:///C:/Users/
+[creepy]: file:///C:/:$i30:$bitmap
 
 ---
 
