@@ -30,7 +30,7 @@ Estudiante de Ingeniería
 :ghost: `by` <span style="color: blue;">`patod01`</span> :ghost:
 
 [teikat]: https://teikat.github.io
-[creepy]: file:///C:/Users
+[creepy]: file:///C:/Users/
 
 ---
 
